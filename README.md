@@ -15,6 +15,9 @@ git  clone https://github.com/paco-portada/EjemploJavaFX.git
 
 Se almacenarán en la carpeta EjemploJavaFX todos los ficheros del proyecto
 
-Abrir el proyecto con Idea y ejecutarlo
+Abrir el proyecto con Idea
+
+Ejecutarlo (Run)
+
 
 
